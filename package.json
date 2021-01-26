@@ -1,0 +1,22 @@
+{
+  "name": "best-discord-bot",
+  "version": "1.0.0",
+  "description": "USC CS Gang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markkyaw/best-discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markkyaw/best-discord-bot/issues"
+  },
+  "homepage": "https://github.com/markkyaw/best-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
